@@ -581,7 +581,9 @@ footer{
         width: 40%;
         margin-bottom: 20px;
     }
-
+    #skill img{
+        width:40%;
+    }
     #Home .info-box {
         max-width: 80%;
     }
